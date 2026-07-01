@@ -42,8 +42,8 @@ $role = $_SESSION['role'] ?? 'guest';
         </ul>
 
     <?php else: ?>
-        <h4>Halo Guest!</h4>
-        <p>Silakan login untuk melihat dashboard sesuai role.</p>
+        <h4>Halo Gantenk</h4>
+        <p>Silakan login dulu untuk melihat dashboard sesuai role.</p>
     <?php endif; ?>
 
     </div>
